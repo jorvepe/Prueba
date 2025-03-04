@@ -1,6 +1,6 @@
 
 
-a = "Jorge Vela"
+a = "Jorge"
 b = 25
 
 print("Mi nombre es es", a, "y tengo", b, "años")

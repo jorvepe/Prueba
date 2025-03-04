@@ -1,9 +1,9 @@
 
 
-a = "Jorge"
+a = "Jorge Vela"
 b = 25
 
-print("Mi nombre es", a, "y tengo", b, "años")
+print("Mi nombre es es", a, "y tengo", b, "años")
 
 c = "Hola"
 print(c,c,c,c,c)

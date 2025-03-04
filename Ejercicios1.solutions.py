@@ -2,7 +2,7 @@
 # Escribe una expresión en Python que combine el string "Python" y el string "Rocks" 
 # en una sola cadena sin ningún espacio entre ellas.
 
-cadena = "Python" + "Rocks"  # Usamos el operador '+' para unir los dos strings
+cadena = "Python" + "Rockss"  # Usamos el operador '+' para unir los dos strings
 print(cadena)  # Imprimimos el resultado: 'PythonRocks'
 
 # Ejercicio 2:
